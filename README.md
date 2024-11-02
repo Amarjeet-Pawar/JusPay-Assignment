@@ -1,1 +1,1 @@
-# MIT-Scratch-juspay-assignment
+# Juspay-Assignment
